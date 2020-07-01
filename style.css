@@ -1,0 +1,140 @@
+body{
+    margin:0%;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 45px;
+    margin:0;
+}
+.hello{
+    color: #202428;
+}
+.redoy-name{
+    color:#EC4C7A ;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+    
+}
+section{
+    height: 800px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#EC4F8E, #EC4B73);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.half-width img{
+    width: 100%;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.top-margin{
+    margin-top: 220px;
+    font-size: 30px;
+    color: #202428;
+}
+.down{
+    margin-top: 280px;
+}
+.latest-work{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 60px;
+    color: #202428;
+    margin-bottom:90px ;
+    
+}
+.block1{
+    width: 25%;
+    height: 50px;
+    float:left;
+    margin-left: 10%;
+}
+.block2{
+    width: 25%;
+    height: 50px;
+    float: left;
+    margin-left: 3%;
+}
+.block3{
+    width: 25%;
+    height: 50px;
+    float: left;
+    margin-left: 3%;
+}
+.another-section{
+    height: 600px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.block1 img{
+    width: 100%;
+}
+.block2 img{
+    width: 100%;
+}
+.block3 img{
+    width: 100%;
+}
+.client-say{
+    text-align: center;
+    
+}
+.what-client{
+    color: #202428;
+    margin-top: 200px;
+}
+.bruce{
+    margin-top: 100px;
+}
+.last-margin{
+    margin-bottom: 100px;
+}
+.another-link-button{
+    
+    background-image: linear-gradient(45deg,#EC4F8E, #EC4B73);
+    margin-left: 800px;
+    margin-right: 800px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    padding: 5px 25px 19px 25px;
+}
+.none{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.leave-me{
+    margin-bottom: 0px;
+}
+.last-section{
+    background-image: url("images/footer-bg.png");
+    height: 600px;
+
+}
+.footer-name{
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+    
+
+
